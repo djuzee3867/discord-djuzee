@@ -1,6 +1,28 @@
 <h1>bot miku<h1>
   <p>บอทเปิดเพลงสำหรับ discord<P>
 <H2>คำสั่งต่างๆ ของ miku<H2>
+  <p>
+  <img alt="Version" src="https://img.shields.io/badge/version-3.5.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: GNU2" src="https://img.shields.io/badge/License-GNU2-yellow.svg" />
+  </a>
+    <a href="#" target="_blank">
+    <img alt="Node v16.6" src="https://img.shields.io/node/v/discord.js" />
+  </a>
+   <a href="#" target="_blank">
+    <img alt="Size" src="https://img.shields.io/github/repo-size/whirl21/musico" />
+  </a>
+    <a href="#" target="_blank">
+    <img alt="Stars" src="https://img.shields.io/github/stars/whirl21/musico?style=social" />
+  </a>
+    <a href="#" target="_blank">
+    <img alt="Forks" src="https://img.shields.io/github/forks/whirl21/musico?style=social" />
+  </a>
+    <a href="#" target="_blank">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/whirl21/musico" />
+  </a>
+</p>
+
   <P>
 <br>
 /reset-commandschannel
