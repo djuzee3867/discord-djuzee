@@ -1,54 +1,56 @@
 <h1>bot miku<h1>
   <p>บอทเปิดเพลงสำหรับ discord<P>
-    Miku
-<H2>คำสั่งต่างๆ ของ miku<H>
+<H2>คำสั่งต่างๆ ของ miku<H2>
+<br>
 /reset-commandschannel
 นำกำหนดห้องเปิดเพลงออก
+  <br>
 /eval
 ใช้ได้เฉพาะ owner
-/help
+<br>
+  /help
 ดูคำสั่งทั้งหมด
-/blacklist-role
+<br>/blacklist-role
 แบนคนไม่ให้ใช้บอท
-/dj-role
+<br>/dj-role
 ตั้ง dj role
-/commands-channel
+<br>/commands-channel
 กำหนดห้องเปิดเพลง
-/8d
+<br>/8d
 เปิดหรือปิด filter เสียง
-/autoplay
+<br>/autoplay
 เล่นเพลงอัตโนมัติ
-/bassboost
+<br>/bassboost
 เปิดหรือปิด bass-boost filter
-/clear
+<br>/clear
 เคลียร์คิวเพลง
-/earrape
+<br>/earrape
 เอาไว้แกล้งเพื่อนนะ บูสสสสสสส
-/jump
+<br>/jump
 ไปหาเพลงที่คุณสั่งไว้
-/leave
+<br>/leave
 จะเอาเค้าออกจากห้องจริงๆหรอออ
-/lyrics
+<br>/lyrics
 หาเนื้อเพลงของเพลง
-/np
+<br>/np
 เช็คว่ากำลังเปิดเพลงอะไร!
-/pause
+<br>/pause
 หยุดเพลง
-/play
+<br>/play
 เปิดเพลง
-/previous
+<br>/previous
 เล่นเพลงก่อนหน้าจากคิว
-/queue
+<br>/queue
 ดูคิวเพลงของคุณ
-/repeat
+<br>/repeat
 การเปิด loop
-/requester
+<br>/requester
 เช็คว่าใครเปิดเพลงนี้
-/resume
+<br>/resume
 เล่นเพลงต่อ
-/reverse
+<br>/reverse
 ย้อนกลับเพลง
-/save
+<br>/save
 ส่งเพลงที่เปิดเข้า dm
-/seek
-เพิ่มความเร็
+<br>/seek
+เพิ่มความเร็ว
