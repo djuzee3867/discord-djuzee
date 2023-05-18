@@ -1,6 +1,6 @@
-<h1>bot miku<h1>
-  <p>บอทเปิดเพลงสำหรับ discord<P>
-<H2>คำสั่งต่างๆ ของ miku<H2>
+<h1>bot miku</h1>
+  <p>บอทเปิดเพลงสำหรับ discord</P>
+<H2>คำสั่งต่างๆ ของ miku</H2>
   <p>
   <img alt="Version" src="https://img.shields.io/badge/version-3.5.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -23,7 +23,7 @@
   </a>
 </p>
 
-  <P>
+  <p>
 <br>
 /reset-commandschannel
 นำกำหนดห้องเปิดเพลงออก
@@ -76,4 +76,4 @@
 <br>/save
 ส่งเพลงที่เปิดเข้า dm
 <br>/seek
-เพิ่มความเร็ว<P>
+เพิ่มความเร็ว</p>
